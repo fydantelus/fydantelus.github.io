@@ -137,7 +137,7 @@ table {
 }
 
 html {
-   font-size: 62.5%;
+   /*font-size: 62.5%;*/
    -webkit-font-smoothing: antialiased;
 }
 
@@ -295,7 +295,7 @@ a, a:visited {
    -o-transition: color .3s ease-in-out;
    transition: color .3s ease-in-out;
 }
-a:hover, a:focus { color: #313131; }
+a:hover, a:focus { color: #F06000; }
 p a, p a:visited { line-height: inherit; }
 
 
