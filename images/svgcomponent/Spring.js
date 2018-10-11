@@ -4,8 +4,8 @@ const SvgSpring = props => (
   <svg
     viewBox="0 0 256 254"
     preserveAspectRatio="xMidYMid"
-    width="2em"
-    height="2em"
+    width="3em"
+    height="3em"
     {...props}
   >
     <g fill="#6DB33F">

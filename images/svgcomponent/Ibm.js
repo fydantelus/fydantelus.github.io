@@ -4,8 +4,8 @@ const SvgIbm = props => (
   <svg
     viewBox="0 0 512 205"
     preserveAspectRatio="xMidYMid"
-    width="2em"
-    height="2em"
+    width="3em"
+    height="3em"
     {...props}
   >
     <path

@@ -4,8 +4,8 @@ const SvgNpm = props => (
   <svg
     viewBox="0 0 256 100"
     preserveAspectRatio="xMidYMid"
-    width="2em"
-    height="2em"
+    width="3em"
+    height="3em"
     {...props}
   >
     <path d="M0 0v85.498h71.166V99.83H128V85.498h128V0H0z" fill="#CB3837" />
